@@ -1,16 +1,19 @@
-### Hi there 👋
+# 𝖂𝖊𝖑𝖈𝖔𝖒𝖊! 👋
+#### My name is ziuxra and I am a new Node.js Developer.
 
-<!--
-**Ziuxra/Ziuxra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 𝕷𝖆𝖓𝖌𝖆𝖌𝖊𝖘
+- 🌍 [Node.js](https://nodejs.org)
 
-Here are some ideas to get you started:
+### 𝕸𝖞 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
+- 🔰 Currently Nothing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 𝖀𝖕𝖈𝖔𝖒𝖎𝖓𝖌 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
+- 🚧 Auth.gg Discord Moderation Bot (Node.js)
+
+### 𝕲𝖔𝖆𝖑𝖘
+- 📜 Improve w/ Node.js.
+- 🌍 Learn more languages (low and high).
+
+### 𝕾𝖔𝖈𝖎𝖆𝖑𝖘
+- [𝕲𝖎𝖙𝖍𝖚𝖇](https://github.com/ziuxra)
+- [𝕯𝖎𝖘𝖈𝖔𝖗𝖉](https://discordapp.com/users/345260786555289604)

@@ -3,6 +3,7 @@
 
 ### 𝕷𝖆𝖓𝖌𝖆𝖌𝖊𝖘
 - 🌍 [Node.js](https://nodejs.org)
+- 🌐 [Python](https://python.org)
 
 ### 𝕸𝖞 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 - 🔰 Currently Nothing.
@@ -12,7 +13,8 @@
 
 ### 𝕲𝖔𝖆𝖑𝖘
 - 📜 Improve w/ Node.js.
-- 🌍 Learn more languages (low and high).
+- 🐍 Improve w/ Python.
+- 🌍 Learn more languages.
 
 ### 𝕾𝖔𝖈𝖎𝖆𝖑𝖘
 - [𝕲𝖎𝖙𝖍𝖚𝖇](https://github.com/ziuxra)

@@ -1,5 +1,5 @@
 <h1 align="center">𝕳𝖊𝖞! 𝕴𝖒 𝖅𝖎𝖚𝖝𝖗𝖆</h1>
-<h3 align="center">Im a new Node.js & Python developer, experienced in C#!<h3>
+<h3 align="center">Im a new Node.js & Python developer!<h3>
 <p align="center"><img src="https://i.imgur.com/4ePnQ9L.png" height="50px"><img src="https://i.imgur.com/yKGLYNb.png" height="50px"><img src="https://i.imgur.com/dsDW8jm.png" height="50px"></p>
 
 ### 𝕷𝖆𝖓𝖌𝖆𝖌𝖊𝖘

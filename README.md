@@ -11,7 +11,7 @@
 - 🔰 Currently Nothing.
 
 ### 𝖀𝖕𝖈𝖔𝖒𝖎𝖓𝖌 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
-- 🚧 Auth.gg Discord Moderation Bot (Node.js)
+- 🚧 Currently Nothing.
 
 ### 𝕲𝖔𝖆𝖑𝖘
 - 📜 Improve w/ Node.js.

@@ -17,7 +17,3 @@
 - 📜 Improve w/ Node.js.
 - 🐍 Improve w/ Python.
 - 🌍 Learn more languages.
-
-### 𝕾𝖔𝖈𝖎𝖆𝖑𝖘
-- [𝕲𝖎𝖙𝖍𝖚𝖇](https://github.com/ziuxra)
-- [𝕯𝖎𝖘𝖈𝖔𝖗𝖉](https://discordapp.com/users/345260786555289604)
